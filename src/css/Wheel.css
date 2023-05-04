@@ -1,0 +1,81 @@
+/* Roboto Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Wheel container div */
+
+.wheel-container{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin-top: auto;
+    margin-bottom: 20px;
+    /* margin: auto; */
+    display: flex;
+    border: 1px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* wheel  */
+
+.wheel{
+    position: relative;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+/* Controls */
+
+.controls{
+    color: rgb(210, 210, 210);
+    font-weight: 900;
+    position: absolute;
+}
+
+/* Menu Button */
+
+#menu{
+    left: 38%;
+    top: 11%;
+    font-weight: 900;
+    font-size: 18px;
+    width: 40px;
+    height: 20px;
+}
+
+/* Reverse Button */
+#reverse{
+    left: 10%;
+    top: 45%;
+    font-size: 23px;
+}
+
+/* Forward Button */
+#forward{
+    right: 10%;
+    top: 45%;
+    font-size: 23px;
+}
+
+/* Play-pause button */
+#play-pause{
+    bottom: 11%;
+    left: 44%;
+    width: 40px;
+    height: 20px;
+}
+
+/* Ok button */
+.blank{
+    cursor: pointer;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color:  rgb(210, 210, 210);
+    position: absolute;
+    left: 31%;
+    top: 30%;
+}
