@@ -2,6 +2,7 @@
 
 import Wheel from "./Wheel";
 import Navbar from "./Navbar";
+import Music from "./Music";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       {/* <h1>Hi Ankit</h1> */}
       <Wheel/>
       <Navbar/>
+      {/* <Music/> */}
     </div>
   );
 }
