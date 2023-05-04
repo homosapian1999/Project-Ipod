@@ -2,7 +2,7 @@
 
 import Wheel from "./Wheel";
 import Navbar from "./Navbar";
-import Music from "./Music";
+// import Music from "./Music";
 
 function App() {
   return (
