@@ -77,7 +77,7 @@ class Wheel extends React.Component{
 
     componentDidMount() {
         const { changeMenuBackward ,togglePlayPause, seekSongForward, seekSongReverse} = this.props;
-        const wheelControll = this.wheelControll;
+        const wheelControl = this.wheelControl;
         const wheel = document.getElementById("wheel");
         // This will create a new region and assign it to a variable. After region is created it can be used to define or listedn specific gestures like tap, rotate etc;
 
@@ -103,7 +103,7 @@ class Wheel extends React.Component{
             changeMenuBackward();
         });
         activeRegion.bind(wheel, 'rotate', function (e) {
-            wheelControll(e);
+            wheelControl(e);
         });
         activeRegion.bind(playPause, 'tap', function (e) {
             togglePlayPause();

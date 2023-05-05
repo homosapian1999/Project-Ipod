@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
-import Menu from '../components/Menu';
-import Music from '../components/Music';
-import Songs from '../components/Songs';
-import Settings from '../components/Settings';
-import Playing from '../components/Playing';
+import Navbar from './Navbar';
+import Menu from './Menu';
+import Music from './Music';
+import Songs from './Songs';
+import Settings from './Settings';
+import Playing from './Playing';
 import "../css/Display.css"
 import Themes from './Themes';
 import WheelColor from './WheelColor';
