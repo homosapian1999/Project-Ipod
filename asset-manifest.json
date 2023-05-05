@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Project-Ipod/static/css/main.f7ff1650.css",
+    "main.js": "/Project-Ipod/static/js/main.431a8c49.js",
+    "static/media/Best is Yet to Come- Gryffin.mp3": "/Project-Ipod/static/media/Best is Yet to Come- Gryffin.d1d3bb9c3d345689bd41.mp3",
+    "static/media/Running up that Hill- Kate Bush.mp3": "/Project-Ipod/static/media/Running up that Hill- Kate Bush.74df2c08c688be4de213.mp3",
+    "static/media/As It Was- Harry Styles.mp3": "/Project-Ipod/static/media/As It Was- Harry Styles.0d56e72afb45890185df.mp3",
+    "static/media/Dandelions-Ruth B.mp3": "/Project-Ipod/static/media/Dandelions-Ruth B.0f0122d47e6e3da59fe5.mp3",
+    "static/media/Under the Influence- Chris Brown.mp3": "/Project-Ipod/static/media/Under the Influence- Chris Brown.66fa881e5aff28149536.mp3",
+    "static/media/purplePetal.jpg": "/Project-Ipod/static/media/purplePetal.4e09e66734b207364b15.jpg",
+    "static/media/moon.jpg": "/Project-Ipod/static/media/moon.fd3f9cb941dada10ac02.jpg",
+    "static/media/music.jpg": "/Project-Ipod/static/media/music.8ce7802f155d34c70192.jpg",
+    "static/media/settings.jpg": "/Project-Ipod/static/media/settings.1add30cd96f707e5405f.jpg",
+    "static/media/game.jpg": "/Project-Ipod/static/media/game.45817f50d099d7257cb0.jpg",
+    "static/media/boat.jpg": "/Project-Ipod/static/media/boat.7d1a133e91efe3bdbb87.jpg",
+    "static/media/Running Up That Hill -Kate Bush.png": "/Project-Ipod/static/media/Running Up That Hill -Kate Bush.204373f5c5ce46e2427b.png",
+    "static/media/Best is Yet to Come - Image.jpg": "/Project-Ipod/static/media/Best is Yet to Come - Image.140a69c161a0c733a204.jpg",
+    "static/media/As It Was- Harry Styles - Image.jpg": "/Project-Ipod/static/media/As It Was- Harry Styles - Image.5ac42c531889751c2a3f.jpg",
+    "static/media/Dandelions-Image.jpg": "/Project-Ipod/static/media/Dandelions-Image.53486851b2d17a1209a9.jpg",
+    "static/media/Under the Influence - Image.jpg": "/Project-Ipod/static/media/Under the Influence - Image.2d85de254cee6e7bc395.jpg",
+    "index.html": "/Project-Ipod/index.html",
+    "main.f7ff1650.css.map": "/Project-Ipod/static/css/main.f7ff1650.css.map",
+    "main.431a8c49.js.map": "/Project-Ipod/static/js/main.431a8c49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7ff1650.css",
+    "static/js/main.431a8c49.js"
+  ]
+}
