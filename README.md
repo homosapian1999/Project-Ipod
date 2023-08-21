@@ -1,5 +1,12 @@
 <img width="728" alt="Portfolio3" src="https://github.com/homosapian1999/Project-Ipod/assets/52074379/99813986-48a1-4ea6-acd0-bf121900ffd6">
 
+
+# How To use it (Demo Video):
+
+
+https://github.com/homosapian1999/Project-Ipod/assets/52074379/83bd93b7-159d-40af-9ab6-098cb3ce36f7
+
+
 # iPod App using React and ZingTouch
 
 ![iPod App Demo](demo.gif)
